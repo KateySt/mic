@@ -1,9 +1,8 @@
 package org.example.fraud;
 
-import jakarta.persistence.*;
 import lombok.*;
 
-import java.time.LocalDate;
+import javax.persistence.*;
 import java.time.LocalDateTime;
 
 @AllArgsConstructor

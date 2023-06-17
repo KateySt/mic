@@ -1,7 +1,8 @@
 package org.example.customer;
 
-import jakarta.persistence.*;
 import lombok.*;
+
+import javax.persistence.*;
 
 @Setter
 @Getter
